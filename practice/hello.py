@@ -1,0 +1,1 @@
+print("Welcome to FinMate AI by Team ArthX")

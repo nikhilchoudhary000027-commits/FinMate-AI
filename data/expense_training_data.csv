@@ -1,0 +1,251 @@
+description,category
+Lunch at cafe,Food
+Dinner at restaurant,Food
+Zomato order biryani,Food
+Swiggy pizza delivery,Food
+Grocery shopping vegetables,Food
+Breakfast idli sambar,Food
+Tea and snacks,Food
+Bought milk and bread,Food
+Chai and samosa at stall,Food
+BigBasket grocery order,Food
+Dominos pizza party,Food
+McDonalds burger meal,Food
+Street food pani puri,Food
+Office canteen lunch,Food
+Ice cream with friends,Food
+Fruits from market,Food
+Dinner with family at dhaba,Food
+Coffee at Starbucks,Food
+Blinkit groceries delivered,Food
+Paneer and rice for dinner,Food
+Bakery cake and pastries,Food
+Maggi and cold drink,Food
+Mess fees for food,Food
+Weekend brunch,Food
+Vegetables and fruits from sabzi mandi,Food
+Uber ride to office,Travel
+Ola cab airport,Travel
+Metro card recharge,Travel
+Train ticket to Pune,Travel
+Bus fare,Travel
+Petrol for bike,Travel
+Auto rickshaw fare,Travel
+Flight ticket Delhi,Travel
+Rapido bike taxi,Travel
+IRCTC ticket booking,Travel
+Toll charges on highway,Travel
+Parking fee at mall,Travel
+Cab to railway station,Travel
+Diesel for car,Travel
+Local train monthly pass,Travel
+Redbus ticket to Goa,Travel
+Hotel stay during trip,Travel
+Car service and fuel,Travel
+Airport taxi fare,Travel
+FASTag recharge,Travel
+Ferry ticket,Travel
+Outstation cab booking,Travel
+Bike taxi to college,Travel
+Bus pass renewal,Travel
+Train tickets for Diwali trip,Travel
+Bought headphones,Shopping
+Amazon order shoes,Shopping
+Flipkart mobile cover,Shopping
+New t-shirt from mall,Shopping
+Bought a backpack,Shopping
+Myntra jeans purchase,Shopping
+Gift for friend,Shopping
+Bought a watch,Shopping
+Bought a phone charger,Shopping
+Ajio kurta order,Shopping
+Sunglasses purchase,Shopping
+Bought a laptop bag,Shopping
+Meesho kitchen items,Shopping
+Wallet and belt,Shopping
+Diwali clothes shopping,Shopping
+Birthday gift for sister,Shopping
+Bought bedsheets and curtains,Shopping
+Nykaa makeup order,Shopping
+Sports shoes from Decathlon,Shopping
+Bought a bluetooth speaker,Shopping
+Perfume purchase,Shopping
+Furniture from IKEA,Shopping
+Bought a mixer grinder,Shopping
+Saree for wedding,Shopping
+Home decor items,Shopping
+Monthly house rent,Rent
+Room rent October,Rent
+Paid flat rent,Rent
+PG rent payment,Rent
+Rent to landlord,Rent
+Hostel room rent,Rent
+Apartment rent transfer,Rent
+Rent for November,Rent
+Shop rent for the month,Rent
+Office space rent,Rent
+House rent via UPI,Rent
+Advance rent payment,Rent
+Rent for December,Rent
+Monthly rent to owner,Rent
+Quarterly rent paid,Rent
+Garage rent,Rent
+Rented room payment,Rent
+Paid landlord for rent,Rent
+Rent for January,Rent
+Co-living space rent,Rent
+Studio apartment rent,Rent
+Rent share with roommate,Rent
+Annual rent installment,Rent
+Paying house rent,Rent
+Second month rent,Rent
+College tuition fee,Education
+Bought textbooks,Education
+Online course Udemy,Education
+Exam registration fee,Education
+Coaching class fees,Education
+Stationery and notebooks,Education
+Library membership,Education
+Python course subscription,Education
+Semester fee payment,Education
+Coursera certificate fee,Education
+School fees for child,Education
+GATE exam form fee,Education
+Bought reference books,Education
+Project printing and binding,Education
+Lab fee for college,Education
+Workshop registration fee,Education
+IELTS exam fee,Education
+Tuition class monthly fee,Education
+Online test series subscription,Education
+Admission form fee,Education
+University exam fee,Education
+Skill development bootcamp,Education
+Bought a scientific calculator,Education
+Study material purchase,Education
+Spoken English class,Education
+Doctor consultation fee,Healthcare
+Medicines from pharmacy,Healthcare
+Dental checkup,Healthcare
+Blood test lab,Healthcare
+Hospital bill,Healthcare
+Eye checkup and glasses,Healthcare
+Health insurance premium,Healthcare
+Bought vitamins,Healthcare
+Physiotherapy session,Healthcare
+X-ray and scan charges,Healthcare
+Apollo pharmacy purchase,Healthcare
+Paid surgery advance,Healthcare
+Skin doctor appointment,Healthcare
+Medical checkup package,Healthcare
+Cough syrup and tablets,Healthcare
+Dentist root canal,Healthcare
+Contact lens purchase,Healthcare
+Ayurvedic medicine,Healthcare
+Vaccination charges,Healthcare
+Ambulance charges,Healthcare
+Pathology lab report,Healthcare
+Therapy session fee,Healthcare
+Bought first aid kit,Healthcare
+Hospital admission deposit,Healthcare
+Eye drops and medicines,Healthcare
+Monthly electricity bill,Bills and Utilities
+Mobile recharge,Bills and Utilities
+Broadband internet bill,Bills and Utilities
+Water bill payment,Bills and Utilities
+Gas cylinder booking,Bills and Utilities
+DTH recharge,Bills and Utilities
+Phone postpaid bill,Bills and Utilities
+Society maintenance charges,Bills and Utilities
+Jio recharge plan,Bills and Utilities
+Airtel postpaid payment,Bills and Utilities
+Piped gas bill,Bills and Utilities
+Property tax payment,Bills and Utilities
+Wifi bill,Bills and Utilities
+Tata Power bill,Bills and Utilities
+Municipal water tax,Bills and Utilities
+Electricity bill for September,Bills and Utilities
+Cable TV bill,Bills and Utilities
+LPG refill,Bills and Utilities
+Home internet renewal,Bills and Utilities
+Prepaid mobile top up,Bills and Utilities
+Sewage and garbage charges,Bills and Utilities
+Maintenance fee for apartment,Bills and Utilities
+Mobile bill payment,Bills and Utilities
+Electric meter recharge,Bills and Utilities
+Landline bill,Bills and Utilities
+Movie tickets,Entertainment
+Netflix subscription,Entertainment
+Spotify premium,Entertainment
+Concert tickets,Entertainment
+Bowling with friends,Entertainment
+Bought a video game,Entertainment
+Amusement park entry,Entertainment
+Cricket match tickets,Entertainment
+Amazon Prime subscription,Entertainment
+Hotstar subscription,Entertainment
+PVR movie night,Entertainment
+Gaming zone with friends,Entertainment
+Standup comedy show,Entertainment
+YouTube Premium,Entertainment
+Water park tickets,Entertainment
+Pub night out,Entertainment
+Bought a PlayStation game,Entertainment
+Escape room booking,Entertainment
+Theatre play tickets,Entertainment
+Karaoke night,Entertainment
+Club entry fee,Entertainment
+Museum entry ticket,Entertainment
+BookMyShow booking,Entertainment
+Xbox game subscription,Entertainment
+Music festival pass,Entertainment
+Received salary,Salary
+Monthly salary credited,Salary
+Salary for October,Salary
+Company salary credit,Salary
+Salary from employer,Salary
+Monthly pay received,Salary
+Salary deposit,Salary
+Paycheck received,Salary
+Salary credited by company,Salary
+September salary received,Salary
+Salary credit from office,Salary
+Monthly payroll credit,Salary
+Net salary received,Salary
+Salary for November,Salary
+Salary deposited in account,Salary
+Employer paid salary,Salary
+Month end salary,Salary
+Salary arrears received,Salary
+Basic pay credited,Salary
+Salary slip amount received,Salary
+Received monthly wages,Salary
+Salary from job,Salary
+Internship stipend received,Salary
+Annual bonus credited,Salary
+Salary transferred by employer,Salary
+Freelance project payment,Freelance Income
+Client paid for website,Freelance Income
+Logo design payment,Freelance Income
+Received freelance work money,Freelance Income
+Content writing payment,Freelance Income
+Consulting fee received,Freelance Income
+Payment from client,Freelance Income
+Tutoring income,Freelance Income
+Upwork payout,Freelance Income
+Fiverr gig payment,Freelance Income
+App development project payment,Freelance Income
+Video editing payment received,Freelance Income
+Translation work payment,Freelance Income
+Received payment for freelance design,Freelance Income
+Photography gig payment,Freelance Income
+Online tuition fees received,Freelance Income
+Blog writing payment,Freelance Income
+Freelance invoice cleared,Freelance Income
+Data entry work payment,Freelance Income
+Voiceover job payment,Freelance Income
+Client advance for project,Freelance Income
+Side project income,Freelance Income
+Social media management payment,Freelance Income
+Freelance payout via PayPal,Freelance Income
+Consulting project payment,Freelance Income

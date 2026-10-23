@@ -1,0 +1,86 @@
+text,intent
+How much did I spend this month,spend_total
+What is my total spending this month,spend_total
+Total expenses this month,spend_total
+How much have I spent so far,spend_total
+Show my total spending,spend_total
+How much did I spend last month,spend_total
+What were my expenses last month,spend_total
+Tell me my total expense,spend_total
+How much money did I spend,spend_total
+Total kharcha this month,spend_total
+What is my biggest expense category,top_category
+Which category do I spend the most on,top_category
+Where do I spend the most money,top_category
+Top spending category this month,top_category
+Which category is my highest expense,top_category
+Show my largest spending category,top_category
+What do I spend most on,top_category
+Biggest expense category last month,top_category
+Which category costs me the most,top_category
+Highest spending category,top_category
+How much did I spend on food last month,category_spend
+How much did I spend on travel this month,category_spend
+What is my shopping expense this month,category_spend
+Spending on rent this month,category_spend
+How much on entertainment,category_spend
+Show my healthcare expenses,category_spend
+Food expenses this month,category_spend
+How much did I spend on bills and utilities,category_spend
+What did I spend on education,category_spend
+Travel spending last month,category_spend
+Am I over my monthly budget,budget_check
+Have I crossed my budget,budget_check
+Is my budget exceeded,budget_check
+How is my budget doing,budget_check
+Am I within budget this month,budget_check
+Check my budget status,budget_check
+How much budget is left,budget_check
+Did I exceed my spending limit,budget_check
+Budget remaining this month,budget_check
+Am I overspending,budget_check
+How much money did I save this month,savings_month
+What are my savings this month,savings_month
+How much did I save last month,savings_month
+Show my monthly savings,savings_month
+What is my saving this month,savings_month
+How much have I saved,savings_month
+Tell me my savings,savings_month
+My savings for this month,savings_month
+Monthly savings amount,savings_month
+How much did I save so far,savings_month
+How much can I save if I reduce shopping expenses by 20 percent,what_if_reduce
+What if I cut food spending by 15 percent,what_if_reduce
+If I reduce travel by 10 percent how much will I save,what_if_reduce
+Savings if I lower entertainment spending by 30 percent,what_if_reduce
+What happens if I reduce my shopping by 25 percent,what_if_reduce
+How much will I save if I cut rent by 10 percent,what_if_reduce
+Suppose I reduce food expenses by 20 percent,what_if_reduce
+What if I spend 10 percent less on travel,what_if_reduce
+Reduce shopping by 50 percent how much saved,what_if_reduce
+If I decrease entertainment spending by 40 percent,what_if_reduce
+I spent 180 rupees on lunch today add it to my expenses,add_expense
+Add expense 250 for Uber ride,add_expense
+Record an expense of 500 for groceries,add_expense
+I paid 1200 for electricity bill,add_expense
+Bought headphones for 1999 add it,add_expense
+Add 300 rupees spent on dinner,add_expense
+Log an expense 150 for tea and snacks,add_expense
+I spent 2000 on shoes yesterday,add_expense
+Please add 80 rupees for auto fare,add_expense
+Note down 450 spent on movie tickets,add_expense
+What is the weather today,unsupported
+Tell me a joke,unsupported
+Who is the prime minister,unsupported
+Which stock should I buy,unsupported
+Book a flight for me,unsupported
+What is the capital of France,unsupported
+Hello how are you,unsupported
+Predict the stock market,unsupported
+Write me a poem,unsupported
+Should I invest in crypto,unsupported
+Transfer money to my friend,unsupported
+What is the meaning of life,unsupported
+Play some music,unsupported
+Order food for me,unsupported
+What time is it,unsupported
